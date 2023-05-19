@@ -83,6 +83,7 @@ public class WebCrawler implements Runnable {
     private Thread thread;
     private Thread thread_internal;
     private String first_link;
+    //abcd
 
 
    public static Set<String> visitedUrl = ConcurrentHashMap.newKeySet();
